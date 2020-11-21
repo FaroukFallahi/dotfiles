@@ -1,0 +1,1 @@
+/home/ff17/.dotScripts/date.sh
